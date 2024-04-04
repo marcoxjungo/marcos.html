@@ -2,7 +2,7 @@
 
 body { 
 background-color: blue; 
-      background-image:linear-gradient(todown,purple,blue); 
+      background-image:linear-gradient(to down,purple,blue); 
 }
 
 img {
